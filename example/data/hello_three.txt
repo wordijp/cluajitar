@@ -1,0 +1,5 @@
+final file:
+int main() {
+  printf("from hello_three.txt\n");
+  return 0;
+}
